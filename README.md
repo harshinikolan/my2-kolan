@@ -21,3 +21,8 @@
 |Cricket|Helps in Managment|10hrs|
 |Running|Improves strength|10hrs|
 |Jogging|Improves breath intake|20hrs|
+
+# Pithy Quotes
+> The truth will set you free - * The bible *
+
+> All that glitters is not gold - * William shakespears *
