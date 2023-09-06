@@ -14,6 +14,7 @@
 * biryani
 #  Sports
 > Table for sports<br>
+
 |Sport or game|Reason|Hours per Week|
 | :---: | :---: | :---: |
 |Swimming|Improves body structure|20hrs|
