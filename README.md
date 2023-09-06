@@ -23,6 +23,8 @@
 |Jogging|Improves breath intake|20hrs|
 
 # Pithy Quotes
-> The truth will set you free - * The bible *
+> The truth will set you free - *The bible*
 
-> All that glitters is not gold - * William shakespears *
+> All that glitters is not gold - *William shakespears*
+
+
