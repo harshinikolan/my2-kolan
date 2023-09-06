@@ -27,4 +27,16 @@
 
 > All that glitters is not gold - *William shakespears*
 
+# Code Fencing
+```
+mixin position($position, $top: null, $right: null, $bottom: null, $left: null) {
+  position: $position;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+```
+
+> [link to code](https://css-tricks.com/snippets/sass/mixin-offset-positioning/)
 
