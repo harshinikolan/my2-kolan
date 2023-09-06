@@ -12,7 +12,9 @@
 * mocktails
 * sea food
 * biryani
-# |Sport or game|Reason|Hours per Week|
+#  Sports
+> Table for sports<br>
+|Sport or game|Reason|Hours per Week|
 | :---: | :---: | :---: |
 |Swimming|Improves body structure|20hrs|
 |Cricket|Helps in Managment|10hrs|
